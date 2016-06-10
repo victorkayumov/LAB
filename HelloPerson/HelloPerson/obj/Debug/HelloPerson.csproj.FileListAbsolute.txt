@@ -1,0 +1,5 @@
+C:\Users\Ytek_Guest\Desktop\HelloPerson\HelloPerson\bin\Debug\HelloPerson.exe.config
+C:\Users\Ytek_Guest\Desktop\HelloPerson\HelloPerson\bin\Debug\HelloPerson.exe
+C:\Users\Ytek_Guest\Desktop\HelloPerson\HelloPerson\bin\Debug\HelloPerson.pdb
+C:\Users\Ytek_Guest\Desktop\HelloPerson\HelloPerson\obj\Debug\HelloPerson.exe
+C:\Users\Ytek_Guest\Desktop\HelloPerson\HelloPerson\obj\Debug\HelloPerson.pdb
